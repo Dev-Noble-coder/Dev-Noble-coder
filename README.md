@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dev-Noble-coder
 - 👀 I’m interested in God
-- 🌱 I’m currently learning Machine Learning and Data Science
+- 🌱 I’m looking forward to explore new fields like Machine Learning and Data Science
 - 💞️ I’m looking to collaborate on innovative projects
 - 📫 How to reach me via whatsapp +7075688609
 - 😄 Pronouns: ...
